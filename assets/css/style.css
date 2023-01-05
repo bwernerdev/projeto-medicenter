@@ -315,6 +315,7 @@ footer .widget-title-text {
   }
   .menuMobile {
     display: flex;
+    transition: all 0.2s linear;
     flex-direction: column;
     justify-content: space-around;
   }
